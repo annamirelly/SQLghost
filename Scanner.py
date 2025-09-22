@@ -15,7 +15,7 @@ print("""\033[1;33m
 |_ -| . | |_ -|  _| .'|   |
 |___|_  |_|___|___|__,|_|_|
       |_|\033
-)
+""")
 dorks_path = "wordlist/dorks.txt"
 output_path = "Resultado.json"
 
